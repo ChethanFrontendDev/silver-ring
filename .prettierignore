@@ -1,0 +1,14 @@
+# Ignore build directories
+.next
+dist
+
+# Ignore node_modules directory (installed via npm)
+node_modules
+
+# Ignore any log or temporary files
+*.log
+*.tmp
+
+# Ignore IDE/editor specific files or directories
+.vscode
+.idea
